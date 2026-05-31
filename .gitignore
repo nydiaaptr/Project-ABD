@@ -1,8 +1,5 @@
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-*.db
-*.sqlite3
-.env
-spark-env/
+data/bronze/
+data/silver/
+data/gold/predictions/
