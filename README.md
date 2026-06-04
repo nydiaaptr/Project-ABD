@@ -76,5 +76,3 @@ Pipeline ini memproses data mentah traffic, membersihkan, menyiapkan fitur, dan 
 - Pipeline ini bisa dikembangkan untuk data real-time, fitur tambahan, atau model lain.
 
 ---
-
-## 6. Struktur Repository
